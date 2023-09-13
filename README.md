@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm 개발자 금상호입니다.</h1>
+<h1 align="center">Hi 👋, I'm developer Sangho Keum.</h1>
 
 - 👨‍💻 All of my projects are available at https://www.notion.so/4b27f735794846358afc2fa536f3e2d2
 - 📫 How to reach me keumm9612@naver.com
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">How to run my project:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucotdxhcrndk-hgz1vf2f11q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucotdxhcrndk-hgz1vf2f11q" height="30" width="40" /></a>
 </p>
