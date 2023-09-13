@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 개발자 금상호입니다.</h1>
-- 👨‍💻 All of my projects are available at [https://www.notion.so/4b27f735794846358afc2fa536f3e2d2](https://www.notion.so/4b27f735794846358afc2fa536f3e2d2)
+- 👨‍💻 All of my projects are available at https://www.notion.so/4b27f735794846358afc2fa536f3e2d2
 
 - 📫 Email **keumm9612@naver.com**
 
