@@ -2,14 +2,15 @@
   <img src="https://capsule-render.vercel.app/api?type=Wave&height=200&text=개발자%20금상호입니다.&fontColor=0D3EA3&color=F2B9CF&fontAlign=52" />
 </p>
 
-- 👨‍💻 저에 대해 궁금한 사항이 있다면, https://www.notion.so/4b27f735794846358afc2fa536f3e2d2 방문해주세요!
+- 👨‍💻 저에게 궁금한 사항이 있다면, https://www.notion.so/4b27f735794846358afc2fa536f3e2d2 를 방문해주세요!
 - 📫 저의 이메일 주소입니다. keumm9612@naver.com
+- 🐸 저의 블로그 주소입니다. https://blog.naver.com/keumm9612
 
 --------------------------------------
 
 <h3 align="left">How to run my project:</h3>
 <p align="center"> 
-  <a href="https://google.com" target="_blank">
+  <a href="https://www.porifo.com" target="_blank">
     <img src="https://cyhvfqdzonehvongdtow.supabase.co/storage/v1/object/public/%20brochure/brochure/main.png">
   </a>
   <p>- PORIFO는 포트폴리오를 제작하고 피드백을 받을 수 있는 서비스입니다.</p>
