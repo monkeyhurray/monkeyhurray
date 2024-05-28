@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Wave&height=200&text=개발자%20금상호입니다.&fontColor=0D3EA3&color=F2B9CF&fontAlign=52" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=개발자%20금상호입니다.&fontColor=0D3EA3&color=F2B9CF&fontAlign=52" />
 </p>
 
 - 👨‍💻 저에게 궁금한 사항이 있다면, https://www.notion.so/4b27f735794846358afc2fa536f3e2d2 를 방문해주세요!
